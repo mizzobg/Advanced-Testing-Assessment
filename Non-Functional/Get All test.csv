@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1540459893509,39,Get All Owners Request,200,,Smoke Test 1-1,text,true,,3144,169,1,1,38,0,1
+1540459893548,8,Post New Owner Request,201,,Smoke Test 1-1,text,true,,315,717,1,1,8,0,0
+1540459893556,6,Get Owner Using String Last Name,200,,Smoke Test 1-1,text,true,,378,248,1,1,6,0,0
+1540459893562,8,PUT- Update Owner Using Owner ID,204,,Smoke Test 1-1,text,true,,100,734,1,1,0,0,0
+1540459893571,7,Delete Using Owner ID Request,204,,Smoke Test 1-1,,true,,54,190,1,1,0,0,0
